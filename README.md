@@ -1,10 +1,8 @@
 # enjoyMotif
 
-######################################################################################
-# This tool based on Knuth-Morris-Pratt Algorithm searches motifs like binding sites #
-# of RNA-binding protein on Drosophila 3'UTR. It searches too polyadenylation signal.#
-#                It can search microRNA binding site using Bowtie2.       			 #
-######################################################################################
+**This tool based on Knuth-Morris-Pratt Algorithm searches motifs like binding sites
+**of RNA-binding protein on Drosophila 3'UTR. It searches too polyadenylation signal.
+**               It can search microRNA binding site using Bowtie2.       			 
 
 Installation required:
 - Perl5
@@ -15,7 +13,7 @@ Installation required:
 	biocLite("seqLogo")
 - Bowtie2
 
-Install this tool on PATH: export PATH="/path/to/tool:$PATH"
+*Install this tool on PATH: export PATH="/path/to/tool:$PATH"*
 
 Usage:
 	enjoymotif.sh -d [DISTANCE] -g [GENELIST] -G [UTRGenome] -m [MOTIF] -R [T/F] -r [mirna.fa] -o [OUTPUT]
