@@ -7,7 +7,7 @@
 Installation required:
 - Perl5
 - BioPerl
-- R (version 3.3.3)
+- R (version 3.3.3 or higher)
 - R package SeqLogo :
 	source("https://bioconductor.org/biocLite.R")
 	biocLite("seqLogo")
