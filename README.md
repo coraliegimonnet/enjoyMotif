@@ -1,8 +1,8 @@
 # enjoyMotif
 
-**This tool based on Knuth-Morris-Pratt Algorithm searches motifs like binding sites
-**of RNA-binding protein on Drosophila 3'UTR. It searches too polyadenylation signal.
-**               It can search microRNA binding site using Bowtie2.       			 
+**This tool based on Knuth-Morris-Pratt Algorithm searches motifs like binding sites**
+**of RNA-binding protein on Drosophila 3'UTR. It searches too polyadenylation signal.**
+**It can search microRNA binding site using Bowtie2.**	 
 
 Installation required:
 - Perl5
