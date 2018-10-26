@@ -1,7 +1,7 @@
 # enjoyMotif
 
-Date : February 2016 
-Last version : June 2016
+Date : February 2017 
+Last version : June 2017
 
 **This tool based on Knuth-Morris-Pratt Algorithm searches motifs like binding sites**
 **of RNA-binding protein on Drosophila 3'UTR. It searches too polyadenylation signal.**
